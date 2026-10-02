@@ -45,13 +45,13 @@
 ## 🌐 Kết nối với tôi tại đây
 
 <p align="left">
-  <a href="[https://facebook.com/YOUR-PROFILE](https://www.facebook.com/profile.php?id=61591967111877)" target="_blank">
+  <a href="https://www.facebook.com/profile.php?id=61591967111877" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="mailto:datbmt719@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/>
   </a>
- <a href="[https://instagram.com/YOUR-PROFILE](https://www.instagram.com/letters.frombi_/)" target="_blank">
+ <a href="https://www.instagram.com/letters.frombi_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
